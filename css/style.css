@@ -1,0 +1,37 @@
+:root {
+  --orange: #ff6600;
+  --gold:   #ffc14d;
+  --charcoal: #222;
+  --white:    #fff;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  font-family:'Montserrat',sans-serif;
+  color: var(--charcoal);
+  line-height:1.6;
+  padding:2rem;
+}
+header nav a {
+  color: var(--white);
+  margin-right:1rem;
+  text-decoration:none;
+  font-weight:600;
+}
+.highlight {
+  color: var(--orange);
+}
+.cta-group a {
+  display:inline-block;
+  margin:0.5rem;
+  padding:0.75rem 1.25rem;
+  background: var(--orange);
+  color: var(--white);
+  text-decoration:none;
+  font-weight:700;
+  border-radius:4px;
+  transition: background 0.3s, transform 0.2s;
+}
+.cta-group a:hover {
+  background: #e65500;
+  transform: translateY(-2px);
+}
