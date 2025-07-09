@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>Hope First Hire | Rooted in Hope</title>
+  <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+  <h1 style="color:var(--orange);">Hope First Hire Pledge</h1>
+  <p>Employers: pledge to hire neurodivergent youth.</p>
+  <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+    <label>Company Name<input type="text" name="company" required></label><br><br>
+    <label>Email<input type="email" name="email" required></label><br><br>
+    <button type="submit">Take the Pledge</button>
+  </form>
+  <h2>Youth Scholarship</h2>
+  <a href="https://yourapplication.com/scholarship">Apply Here</a>
+</body>
+</html>
