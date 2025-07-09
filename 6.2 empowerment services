@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>Services | Rooted in Hope</title>
+  <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+  <h1 style="color:var(--orange);">Empowerment Services</h1>
+  <p>Custom business tools that honor hidden brilliance.</p>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:2rem;">
+    <div>
+      <h2>For Evolving Companies</h2>
+      <ul>
+        <li>Neuroinclusive SOP rewrites</li>
+        <li>Environment & sensory protocols</li>
+        <li>Body-language support guides</li>
+      </ul>
+    </div>
+    <div>
+      <h2>For New Businesses</h2>
+      <ul>
+        <li>Strategic business plans</li>
+        <li>Mission & purpose consulting</li>
+        <li>Startup toolkit & templates</li>
+      </ul>
+    </div>
+  </div>
+  <div class="cta-group">
+    <a href="fellowship.html">Request Consultation</a>
+    <a href="worksheets/00-starter-pack.pdf">Download Starter Pack</a>
+  </div>
+</body>
+</html>
