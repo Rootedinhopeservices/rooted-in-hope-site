@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>Curriculum | Rooted in Hope</title>
+  <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+  <h1 style="color:var(--orange);margin-bottom:1rem;">14-Module Emotional Leadership</h1>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:1rem;">
+    <!-- Copy this block 14×, update Module #, title, iframe src, and PDF link -->
+    <div style="border:1px solid #eee;padding:1rem;border-radius:6px;text-align:center;">
+      <h3>Module 01:<br/>Spark Your Flame</h3>
+      <iframe src="https://open.spotify.com/embed/episode/EPISODE_ID"
+              width="100%" height="80" frameborder="0"></iframe>
+      <div>
+        <a href="modules/module-01.html">Details</a>
+        <a href="worksheets/01-spark-your-flame.pdf">Download PDF</a>
+      </div>
+    </div>
+    <!-- …through Module 14 -->
+  </div>
+</body>
+</html>
