@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>Fellowship | Rooted in Hope</title>
+  <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+  <h1 style="color:var(--orange);">The Fellowship</h1>
+  <p>Join our cohort of compassionate leaders.</p>
+  <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+    <label>Name<input type="text" name="name" required></label><br><br>
+    <label>Email<input type="email" name="email" required></label><br><br>
+    <label>Why do you lead?<br>
+      <textarea name="message" rows="4"></textarea>
+    </label><br><br>
+    <button type="submit">Apply Now</button>
+  </form>
+</body>
+</html>
