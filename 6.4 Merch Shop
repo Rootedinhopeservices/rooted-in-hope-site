@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>Merch | Rooted in Hope</title>
+  <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+  <h1 style="color:var(--orange);">Mama Jody Legacy Line</h1>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:1rem;">
+    <!-- Repeat for each product -->
+    <div style="text-align:center;">
+      <img src="assets/images/tee.jpg" alt="Hope Tee" style="max-width:100%;">
+      <h3>Hope Tee</h3>
+      <a href="https://yourstore.com/hope-tee" target="_blank">Buy Now</a>
+    </div>
+  </div>
+  <h2>Tribute Wall</h2>
+  <iframe src="https://yourdonationplatform.com/tribute-wall" width="100%" height="400"></iframe>
+</body>
+</html>
